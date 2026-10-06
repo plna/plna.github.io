@@ -25,7 +25,7 @@ Tôi nhận các dự án video editing freelance, bao gồm cả dự án ngắ
 
 Tôi nhận làm website wordpress như web xe ô tô, website bán hàng sử dụng plugin Elementor tích hợp công thanh toán (thường dành cho free traffice POD và drop shipping), website bán hàng Shopify (paid traffice POD và drop shipping, chủ yếu chạy Facebook Ads meta pixel để đo lường chuyển đổi),.... 
 
-![Peter Phan | Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/web-design.jpg)
+![Peter Phan Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/web-design.jpg)
 
 Và chạy quảng cáo Facebook và Google Ads (chỉ nhận số lượng hạn chế, chi tiết có thể liên hệ để trao đổi)
 ## 🌐 Socials:
