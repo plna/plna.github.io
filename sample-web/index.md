@@ -3,6 +3,8 @@
 
 _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web động nên sẽ không đầy đủ tính năng và không hoạt động bằng cách tải file về và up lên hosting, chỉ mang tính chất xem qua giao diện_
 
+---
+
 ## Toyota mẫu đơn giản [Xem bản full giao diện](https://plna.github.io/toyotadongthap/) 
 
 <iframe id="livePreview" src="https://plna.github.io/toyotadongthap" width="100%" height="500px"></iframe>
@@ -14,6 +16,8 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
+
+---
 
 ## Lynk&Co kết hợp Geely [Xem bản full giao diện](https://plna.github.io/lynkco/)
 
@@ -27,6 +31,8 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
   }, 60000);
 </script>
 
+---
+
 ## Volkswagen mẫu hiện đại sang trọng [Xem bản full giao diện](https://plna.github.io/volkswagen/)
 
 <iframe id="livePreview" src="https://plna.github.io/volkswagen/" width="100%" height="500px"></iframe>
@@ -38,5 +44,9 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
+
+---
+
+
 
 
