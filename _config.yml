@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 title: Peter Phan
 description: Freelancer
 
-favicon_path: "/assets/images/Favicon.png"
+favicon: /assets/images/favicon.ico
 
 # Cấu hình tự động áp dụng layout cho toàn bộ thư mục con
 defaults:
