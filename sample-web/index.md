@@ -5,9 +5,9 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 
 ---
 <br>
-## Toyota mẫu đơn giản
+## Toyota - giao diện đơn giản
 
-<iframe id="livePreview" src="https://plna.github.io/toyotadongthap" width="100%" height="500px"></iframe>
+<iframe id="livePreview" src="https://plna.github.io/toyotadongthap" width="100%" height="450px"></iframe>
 <script>
   setInterval(function() {
     var iframe = document.getElementById('livePreview');
@@ -16,12 +16,12 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem giao diện đầy đủ](https://plna.github.io/toyotadongthap/) 
+[>> Xem chi tiết mẫu giao diện này](https://plna.github.io/toyotadongthap/) 
 
 <br>
 ## Lynk&Co kết hợp Geely
 
-<iframe id="livePreview" src="https://plna.github.io/lynkco/" width="100%" height="500px"></iframe>
+<iframe id="livePreview" src="https://plna.github.io/lynkco/" width="100%" height="450px"></iframe>
 <script>
   setInterval(function() {
     var iframe = document.getElementById('livePreview');
@@ -30,13 +30,13 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem giao diện đầy đủ](https://plna.github.io/lynkco/)
+[>> Xem chi tiết mẫu giao diện này](https://plna.github.io/lynkco/)
 
 
 <br>
-## Volkswagen mẫu hiện đại sang trọng
+## Volkswagen - giao diện hiện đại sang trọng
 
-<iframe id="livePreview" src="https://plna.github.io/volkswagen/" width="100%" height="500px"></iframe>
+<iframe id="livePreview" src="https://plna.github.io/volkswagen/" width="100%" height="450px"></iframe>
 <script>
   setInterval(function() {
     var iframe = document.getElementById('livePreview');
@@ -45,7 +45,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem giao diện đầy đủ](https://plna.github.io/volkswagen/)
+[>> Xem chi tiết mẫu giao diện này](https://plna.github.io/volkswagen/)
 
 <br>
 
