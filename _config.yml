@@ -4,6 +4,9 @@ description: Freelancer
 
 favicon: assets/images/favicon.ico
 
+plugins:
+  - jekyll-seo-tag
+
 # Cấu hình tự động áp dụng layout cho toàn bộ thư mục con
 defaults:
   - scope:
