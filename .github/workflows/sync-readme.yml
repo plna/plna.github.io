@@ -15,13 +15,47 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout website repository
+        uses: actions/checkout@v4
 
-      - name: Sync README.md
+      - name: Download README.md
         run: |
           curl -L \
             https://raw.githubusercontent.com/plna/plna/main/README.md \
-            -o index.md
+            -o README.md
+
+      - name: Update profile section
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          index = Path("index.md")
+          readme = Path("README.md")
+
+          index_content = index.read_text()
+          readme_content = readme.read_text()
+
+          start = "<!-- PROFILE:START -->"
+          end = "<!-- PROFILE:END -->"
+
+          if start not in index_content or end not in index_content:
+              raise SystemExit("PROFILE markers not found in index.md")
+
+          before = index_content.split(start, 1)[0]
+          after = index_content.split(end, 1)[1]
+
+          new_content = (
+              before
+              + start
+              + "\n\n"
+              + readme_content.strip()
+              + "\n\n"
+              + end
+              + after
+          )
+
+          index.write_text(new_content)
+          PY
 
       - name: Commit changes
         run: |
@@ -31,7 +65,7 @@ jobs:
           git add index.md
 
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No changes to commit."
             exit 0
           fi
 
