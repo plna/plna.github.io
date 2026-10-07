@@ -67,3 +67,7 @@ Ngoài ra, tôi cũng nhận làm website wordpress như web xe ô tô, website 
 
 <!-- PROFILE:END -->
 
+## 🕸️ Link các trang web mẫu về Ô tô để tham khảo:
+[Toyota 1](https://plna.github.io/toyotadongthap/)
+[Lynk&Co 1](https://plna.github.io/lynkco/)
+[Volkswagen](https://plna.github.io/volkswagen/)
