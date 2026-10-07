@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 title: Peter Phan
 description: Freelancer
 
-favicon: assets/images/favicon.ico
+favicon: "./favicon.ico"
 
 plugins:
   - jekyll-seo-tag
