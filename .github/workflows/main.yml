@@ -1,0 +1,39 @@
+name: Sync README
+
+on:
+  repository_dispatch:
+    types:
+      - sync-profile
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync README.md
+        run: |
+          curl -L \
+            https://raw.githubusercontent.com/plna/plna/main/README.md \
+            -o index.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add index.md
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "Sync README.md to index.md"
+          git push
