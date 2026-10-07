@@ -17,7 +17,6 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
   }, 60000);
 </script>
 
----
 <br>
 ## Lynk&Co kết hợp Geely [Xem bản full giao diện](https://plna.github.io/lynkco/)
 
@@ -31,7 +30,6 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
   }, 60000);
 </script>
 
----
 <br>
 ## Volkswagen mẫu hiện đại sang trọng [Xem bản full giao diện](https://plna.github.io/volkswagen/)
 
@@ -45,7 +43,6 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
   }, 60000);
 </script>
 
----
 <br>
 
 
