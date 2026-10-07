@@ -3,4 +3,4 @@ title: Peter Phan
 description: Freelancer
 
 
-favicon: .asset/images/favicon.ico
+favicon: ./asset/images/favicon.ico
