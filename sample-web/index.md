@@ -16,7 +16,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>>Xem giao diện đầy đủ](https://plna.github.io/toyotadongthap/) 
+[>> Xem giao diện đầy đủ](https://plna.github.io/toyotadongthap/) 
 
 <br>
 ## Lynk&Co kết hợp Geely
@@ -30,7 +30,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>>Xem giao diện đầy đủ](https://plna.github.io/lynkco/)
+[>> Xem giao diện đầy đủ](https://plna.github.io/lynkco/)
 
 
 <br>
@@ -45,7 +45,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>>Xem giao diện đầy đủ](https://plna.github.io/volkswagen/)
+[>> Xem giao diện đầy đủ](https://plna.github.io/volkswagen/)
 
 <br>
 
