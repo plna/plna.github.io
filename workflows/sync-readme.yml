@@ -1,4 +1,4 @@
-name: Sync README to Website
+name: Sync README
 
 on:
   repository_dispatch:
@@ -15,10 +15,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout website repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Download README.md
+      - name: Sync README.md
         run: |
           curl -L \
             https://raw.githubusercontent.com/plna/plna/main/README.md \
@@ -32,7 +31,7 @@ jobs:
           git add index.md
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes."
             exit 0
           fi
 
