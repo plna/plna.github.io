@@ -68,6 +68,6 @@ Ngoài ra, tôi cũng nhận làm website wordpress như web xe ô tô, website 
 
 ---
 
-## 🕸️ [Link các trang web mẫu về Ô tô để tham khảo*](./sample-web/index.md)
+## 🕸️ [Link các trang web mẫu về Ô tô để tham khảo](./sample-web/index.md)
 
 
