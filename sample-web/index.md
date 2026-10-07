@@ -5,7 +5,9 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 
 ---
 <br>
-## Toyota mẫu đơn giản [Xem bản full giao diện](https://plna.github.io/toyotadongthap/) 
+## Toyota mẫu đơn giản
+
+[Xem bản full giao diện](https://plna.github.io/toyotadongthap/) 
 
 <iframe id="livePreview" src="https://plna.github.io/toyotadongthap" width="100%" height="500px"></iframe>
 <script>
@@ -18,7 +20,9 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 </script>
 
 <br>
-## Lynk&Co kết hợp Geely [Xem bản full giao diện](https://plna.github.io/lynkco/)
+## Lynk&Co kết hợp Geely
+
+[Xem bản full giao diện](https://plna.github.io/lynkco/)
 
 <iframe id="livePreview" src="https://plna.github.io/lynkco/" width="100%" height="500px"></iframe>
 <script>
@@ -31,7 +35,9 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 </script>
 
 <br>
-## Volkswagen mẫu hiện đại sang trọng [Xem bản full giao diện](https://plna.github.io/volkswagen/)
+## Volkswagen mẫu hiện đại sang trọng
+
+[Xem bản full giao diện](https://plna.github.io/volkswagen/)
 
 <iframe id="livePreview" src="https://plna.github.io/volkswagen/" width="100%" height="500px"></iframe>
 <script>
