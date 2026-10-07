@@ -74,3 +74,16 @@ Ngoài ra, tôi cũng nhận làm website wordpress như web xe ô tô, website 
 [Volkswagen](https://plna.github.io/volkswagen/) | 
 
 _*Lưu ý: tất cả các link trang web ở trên đều là web tĩnh không phải web động nên sẽ không đầy đủ tính năng và không hoạt động bằng cách tải file về và up lên hosting, chỉ mang tính chất xem qua giao diện_
+
+<iframe id="livePreview" src="https://plna.github.io/toyotadongthap" width="100%" height="500px"></iframe>
+
+<script>
+  // Đoạn script này sẽ chạy bình thường khi xem trên trang .github.io
+  setInterval(function() {
+    var iframe = document.getElementById('livePreview');
+    if (iframe) {
+      iframe.src = iframe.src;
+    }
+  }, 60000);
+</script>
+
