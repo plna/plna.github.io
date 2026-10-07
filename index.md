@@ -63,7 +63,6 @@ Ngoài ra, tôi cũng nhận làm website wordpress như web xe ô tô, website 
 
 ![](https://streak-stats.demolab.com/?user=plna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=plna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 
 <!-- PROFILE:END -->
 
