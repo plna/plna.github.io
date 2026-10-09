@@ -5,7 +5,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 
 ---
 <br>
-## Toyota - giao diên hiện đại - có vệt sáng lướt qua khi di chuyển chuột lên sản phẩm
+## Toyota - giao diện hiện đại - có vệt sáng lướt qua khi di chuyển chuột lên sản phẩm
 
 <iframe id="livePreview" src="https://plna.github.io/toyotadt2" width="100%" height="450px"></iframe>
 <script>
@@ -16,7 +16,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem chi tiết mẫu giao diện](https://plna.github.io/toyotadt2/) 
+[>> Xem chi tiết giao diện](https://plna.github.io/toyotadt2/) 
 
 <br>
 ## Toyota - giao diện đơn giản
@@ -30,7 +30,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem chi tiết mẫu giao diện](https://plna.github.io/toyotadongthap/) 
+[>> Xem chi tiết giao diện](https://plna.github.io/toyotadongthap/) 
 
 <br>
 ## Lynk&Co kết hợp Geely
@@ -44,7 +44,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem chi tiết mẫu giao diện](https://plna.github.io/lynkco/)
+[>> Xem chi tiết giao diện](https://plna.github.io/lynkco/)
 
 <br>
 ## Volkswagen - giao diện hiện đại sang trọng
@@ -58,7 +58,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem chi tiết mẫu giao diện](https://plna.github.io/volkswagen/)
+[>> Xem chi tiết giao diện](https://plna.github.io/volkswagen/)
 
 <br>
 ## Mitsubishi - giao diện rộng full màn hình
@@ -72,7 +72,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem chi tiết mẫu giao diện](https://plna.github.io/mitsubishi/)
+[>> Xem chi tiết giao diện](https://plna.github.io/mitsubishi/)
 
 <br>
 ## BWM - giao diện cá tính
@@ -86,7 +86,7 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
     }
   }, 60000);
 </script>
-[>> Xem chi tiết mẫu giao diện](https://plna.github.io/bmw/)
+[>> Xem chi tiết giao diện](https://plna.github.io/bmw/)
 
 <br>
 
