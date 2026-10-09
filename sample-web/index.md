@@ -5,6 +5,20 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 
 ---
 <br>
+## Toyota - giao diên hiện đại - có vệt sáng lướt qua khi di chuyển chuột lên sản phẩm
+
+<iframe id="livePreview" src="https://plna.github.io/toyotadt2" width="100%" height="450px"></iframe>
+<script>
+  setInterval(function() {
+    var iframe = document.getElementById('livePreview');
+    if (iframe) {
+      iframe.src = iframe.src;
+    }
+  }, 60000);
+</script>
+[>> Xem chi tiết mẫu giao diện](https://plna.github.io/toyotadt2/) 
+
+<br>
 ## Toyota - giao diện đơn giản
 
 <iframe id="livePreview" src="https://plna.github.io/toyotadongthap" width="100%" height="450px"></iframe>
