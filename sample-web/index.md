@@ -32,7 +32,6 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
 </script>
 [>> Xem chi tiết mẫu giao diện](https://plna.github.io/lynkco/)
 
-
 <br>
 ## Volkswagen - giao diện hiện đại sang trọng
 
@@ -46,6 +45,20 @@ _*Lưu ý: tất cả các link trang web đều là web tĩnh không phải web
   }, 60000);
 </script>
 [>> Xem chi tiết mẫu giao diện](https://plna.github.io/volkswagen/)
+
+<br>
+## Mitsubishi - giao diện rộng full màn hình
+
+<iframe id="livePreview" src="https://plna.github.io/mitsubishi/" width="100%" height="450px"></iframe>
+<script>
+  setInterval(function() {
+    var iframe = document.getElementById('livePreview');
+    if (iframe) {
+      iframe.src = iframe.src;
+    }
+  }, 60000);
+</script>
+[>> Xem chi tiết mẫu giao diện](https://plna.github.io/mitsubishi/)
 
 <br>
 
