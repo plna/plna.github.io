@@ -17,22 +17,16 @@ I’m available for freelance video editing work and open to both one-time proje
 
 ---
 
-### 🇻🇳 Tiếng Việt
+### 🇻🇳
 
-Xin chào, tôi là **Peter Phan (Phan Lê Nhựt Anh)**.
+Xin chào, tôi là **Nhựt Anh**.
 
-Tôi là Video Editor với 3+ năm kinh nghiệm chỉnh sửa cả video ngắn và video dài. Tôi chủ yếu sử dụng DaVinci Resolve, tập trung vào cắt dựng, nhịp video, storytelling, phụ đề, chuyển cảnh, âm thanh và tổng thể mạch nội dung.
-
-Tôi thích biến những footage thô thành những video tự nhiên, rõ ràng và dễ xem. Tôi có thể điều chỉnh phong cách dựng tùy theo từng loại nội dung, từ video mạng xã hội, YouTube đến các dự án khác.
-
-Tôi nhận các dự án video editing freelance, bao gồm cả dự án ngắn hạn và công việc lâu dài.
-
-Ngoài ra, tôi cũng nhận làm website wordpress như web xe ô tô, website bán hàng sử dụng plugin Elementor tích hợp công thanh toán (thường dành cho free traffice POD và drop shipping) và website bán hàng Shopify (POD và drop shipping dạng paid traffic chủ yếu chạy Facebook Ads meta pixel để đo lường chuyển đổi),.... 
+Tôi nhận làm website wordpress như web xe ô tô, website bán hàng sử dụng plugin Elementor tích hợp công thanh toán (thường dành cho free traffice POD và drop shipping) và website bán hàng Shopify (POD và drop shipping dạng paid traffic chủ yếu chạy Facebook Ads meta pixel để đo lường chuyển đổi),.... 
 
 ![Peter Phan Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/web-design.jpg)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/plnanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phanlenhutanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh)
 ## Skills
 
 ### 🎬 Video Editing
