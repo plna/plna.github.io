@@ -19,11 +19,11 @@ I’m available for freelance video editing work and open to both one-time proje
 
 ### 🇻🇳
 
-Xin chào, tôi là **Nhựt Anh**.
+Xin chào, tôi là **Phan Lê Nhựt Anh**.
 
 Tôi nhận làm website wordpress như web xe ô tô, website bán hàng sử dụng plugin Elementor tích hợp công thanh toán (thường dành cho free traffice POD và drop shipping) và website bán hàng Shopify (POD và drop shipping dạng paid traffic chủ yếu chạy Facebook Ads meta pixel để đo lường chuyển đổi),.... 
 
-![Peter Phan Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/web-design.jpg)
+![Peter Phan Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/webdesign.webp)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phanlenhutanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh)
