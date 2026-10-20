@@ -5,7 +5,7 @@
 ![Peter Phan | Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/Freelance%20Video%20Editor%20Workspace.jpg)
 ## About Me
 
-Hi, I’m **Peter Phan**.
+Hi, I’m **Peter Phan** (Full name: Phan Lê Nhựt Anh).
 
 I’m a Video Editor with 3+ years of experience editing both short-form and long-form content. I mainly work with DaVinci Resolve and focus on clean cuts, pacing, storytelling, captions, transitions, sound, and overall flow.
 
