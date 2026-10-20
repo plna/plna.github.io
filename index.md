@@ -26,7 +26,7 @@ Tôi nhận làm website wordpress như web xe ô tô, website bán hàng sử d
 ![Peter Phan Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/webdesign.webp)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phanlenhutanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh)
+[![Facebook](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peterp.creates/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanlenhutanh)
 ## Skills
 
 ### 🎬 Video Editing
