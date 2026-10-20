@@ -13,7 +13,7 @@ I enjoy taking raw footage and turning it into a video that feels natural and ea
 
 I’m available for freelance video editing work and open to both one-time projects and ongoing work.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/84848485088) @peterp.freelance
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/84848485088) +84 84 848 5088
 
 ---
 
