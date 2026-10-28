@@ -62,6 +62,6 @@ Tôi nhận làm website wordpress như web xe ô tô, website bán hàng sử d
 
 ---
 
-## 🕸️ [Link các trang web mẫu về Ô tô để tham khảo](./sample-web/)
+## 🕸️ [Link các trang web mẫu về Ô tô để tham khảo](./car/)
 
 
