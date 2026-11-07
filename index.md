@@ -2,8 +2,6 @@
 
 <!-- PROFILE:START -->
 
-![Peter Phan | 
-## About Me
 
 Hi, I’m **Peter Phan**
 
