@@ -7,8 +7,6 @@
 
 Hi, I’m **Peter Phan** (Full name: Phan Lê Nhựt Anh).
 
-I’m a Video Editor with 3+ years of experience editing both short-form and long-form content. I mainly work with DaVinci Resolve and focus on clean cuts, pacing, storytelling, captions, transitions, sound, and overall flow.
-
 I enjoy taking raw footage and turning it into a video that feels natural and easy to watch. I can adapt my editing style depending on the type of content, whether it’s social media videos, YouTube content, or other projects.
 
 I’m available for freelance video editing work and open to both one-time projects and ongoing work.
