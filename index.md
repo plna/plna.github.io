@@ -5,7 +5,7 @@
 ![Peter Phan | Freelancer](https://raw.githubusercontent.com/plna/plna/refs/heads/main/Freelance%20Video%20Editor%20Workspace.jpg)
 ## About Me
 
-Hi, I’m **Peter Phan** (Full name: Phan Lê Nhựt Anh).
+Hi, I’m **Peter Phan**
 
 I enjoy taking raw footage and turning it into a video that feels natural and easy to watch. I can adapt my editing style depending on the type of content, whether it’s social media videos, YouTube content, or other projects.
 
