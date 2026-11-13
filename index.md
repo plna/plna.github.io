@@ -2,7 +2,6 @@
 
 <!-- PROFILE:START -->
 
-
 Hi, I’m **Peter Phan**
 
 I enjoy taking raw footage and turning it into a video that feels natural and easy to watch. I can adapt my editing style depending on the type of content, whether it’s social media videos, YouTube content, or other projects.
@@ -10,10 +9,6 @@ I enjoy taking raw footage and turning it into a video that feels natural and ea
 I’m available for freelance video editing work and open to both one-time projects and ongoing work.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/84848485088)
-
----
-
-### 🇻🇳
 
 Xin chào, tôi là **Phan Lê Nhựt Anh**.
 
